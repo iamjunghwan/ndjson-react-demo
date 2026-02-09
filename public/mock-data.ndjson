@@ -1,0 +1,4 @@
+{"id":1,"type":"click","target":"button#login","time":"10:01:02"}
+{"id":2,"type":"navigate","target":"/dashboard","time":"10:01:05"}
+{"id":3,"type":"input","target":"input#search","value":"ndjson","time":"10:01:08"}
+{"id":4,"type":"click","target":"button#logout","time":"10:01:12"}
